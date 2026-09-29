@@ -51,6 +51,21 @@ The project focuses on:
 ## 📸 Project Preview
 
 Screenshots of the live website will be added here.
+## 📸 Project Preview
+
+### VATAX & Co Website
+
+#### Homepage
+![VATAX Homepage](screenshots/Screenshot%20%28770%29.png)
+
+#### Website Preview
+![VATAX Website Preview](screenshots/Screenshot%20%28771%29.png)
+
+#### Services & Business Experience
+![VATAX Services](screenshots/Screenshot%20%28772%29.png)
+
+#### Contact / Additional Section
+![VATAX Contact](screenshots/Screenshot%20%28773%29.png)
 
 ---
 
